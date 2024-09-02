@@ -1,3 +1,3 @@
 # React App > The React Redux Bank
 
-## Old Redux
+## Old Redux && New Redux
